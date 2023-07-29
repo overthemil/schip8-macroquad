@@ -8,4 +8,5 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.72"
 macroquad = "0.4.2"
-schip8 = { path = "../schip8" }
+rodio = "0.17.1"
+schip8 = "0.1.0"
